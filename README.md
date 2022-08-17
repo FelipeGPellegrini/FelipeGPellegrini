@@ -11,8 +11,8 @@
 
 <h1>💻Tecnologias</h1>
   <div>
-     <img width="100px" src="https://terminalroot.com.br/assets/img/html/html5.png">
-     <img width="100px" src="https://logospng.org/download/css-3/logo-css-3-2048.png">
-     <img width="100px" src="https://bognarjunior.files.wordpress.com/2018/01/1crcyaithv7aiqh1z93v99q.png">
+     <img width="100px" height="150px" src="https://terminalroot.com.br/assets/img/html/html5.png">
+     <img width="100px" height="150px" src="https://logospng.org/download/css-3/logo-css-3-2048.png">
+     <img width="100px" height="150px" src="https://bognarjunior.files.wordpress.com/2018/01/1crcyaithv7aiqh1z93v99q.png">
   </div>
 
