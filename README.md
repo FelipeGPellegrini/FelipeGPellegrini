@@ -1,16 +1,15 @@
-### Hi there 👋
+## Olá 👋! Me chamo Felipe Pellegrini.
 
-<!--
-**FelipeGPellegrini/FelipeGPellegrini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📘 Estou estudando para me tornar um Dev Front-End
+- 👨‍💻 2/6 - Análise e Desenvolvimento de Sistemas
 
-Here are some ideas to get you started:
+<div>
+<a href="https://github.com/FelipeGPellegrini">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeGPellegrini&theme=radical">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeGPellegrini">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1>💻Tecnologias</h1>
+
+<img width="100px" src="https://terminalroot.com.br/assets/img/html/html5.png">
+
