@@ -11,7 +11,7 @@
 
 <h1>💻Tecnologias</h1>
   <div>
-     <img width="80px"  src="https://terminalroot.com.br/assets/img/html/html5.png">
+     <img width="80px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
      <img width="80px"  src="https://logospng.org/download/css-3/logo-css-3-2048.png">
      <img width="80px"  src="https://bognarjunior.files.wordpress.com/2018/01/1crcyaithv7aiqh1z93v99q.png">
   </div>
