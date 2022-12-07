@@ -6,7 +6,7 @@
 <div>
   <a href="https://github.com/FelipeGPellegrini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeGPellegrini&theme=radical">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeGPellegrini&theme=radical">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeGPellegrini&layout=compact&theme=radical">
 </div>
 
 <h1>💻Tecnologias</h1>
