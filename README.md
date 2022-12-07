@@ -3,7 +3,7 @@
 - 📘 Estou estudando para me tornar um Dev Front-End
 - 👨‍💻 2/6 - Análise e Desenvolvimento de Sistemas - Estácio de Sá
 
-<div>
+<div style="margin: auto">
   <a href="https://github.com/FelipeGPellegrini">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=FelipeGPellegrini&show_icons=true&theme=radical">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeGPellegrini&layout=compact&theme=radical">
