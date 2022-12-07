@@ -5,8 +5,8 @@
 
 <div>
   <a href="https://github.com/FelipeGPellegrini">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=FelipeGPellegrini&show_icons=true&theme=radical">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeGPellegrini&layout=compact&theme=radical">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=FelipeGPellegrini&show_icons=true&theme=radical">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeGPellegrini&layout=compact&theme=radical">
 </div>
 
 <h1>💻Tecnologias</h1>
