@@ -23,6 +23,7 @@
   <a href="https://www.linkedin.com/in/felipe-pellegrini-775648244/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   
 </div>
+<p align="center">Profile views</p>
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/FelipeGPellegrini/count.svg" /></p>
   
 ![snake gif](https://github.com/FelipeGPellegrini/FelipeGPellegrini/blob/output/github-contribution-grid-snake.svg)
