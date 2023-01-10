@@ -25,5 +25,7 @@
 </div>
 <p align="center">Profile views</p>
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/FelipeGPellegrini/count.svg" /></p>
+
+![snake gif](https://github.com/FelipeGPellegrini/FelipeGPellegrini/blob/output/github-contribution-grid-snake.svg)
   
 
