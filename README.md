@@ -1,7 +1,7 @@
 ## Olá 👋! Me chamo Felipe Pellegrini.
 
 - 📘 Estou estudando para me tornar um Dev Front-End
-- 👨‍💻 2/6 - Análise e Desenvolvimento de Sistemas - Estácio de Sá
+- 👨‍💻 3/6 - Análise e Desenvolvimento de Sistemas - Estácio de Sá
 
 <div>
   <a href="https://github.com/FelipeGPellegrini">
