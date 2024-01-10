@@ -18,6 +18,7 @@
      <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg">
      <img width="50px" src="https://embed.zenn.studio/api/optimize-og-image/704a24e8a136651a66c3/https%3A%2F%2Fbradlc.gallerycdn.vsassets.io%2Fextensions%2Fbradlc%2Fvscode-tailwindcss%2F0.11.17%2F1697643339449%2FMicrosoft.VisualStudio.Services.Icons.Default">
          <img width="50px" src="https://sass-lang.com/assets/img/styleguide/seal-color.png">
+         <img width="50px" src="https://assets-global.website-files.com/645baaf6d280a237e2676a09/64cff4a32293c2299fca65b4_nodejslogo.png">
   </div>
   
   <hr>
