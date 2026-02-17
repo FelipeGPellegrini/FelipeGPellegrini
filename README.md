@@ -4,9 +4,13 @@
 - 👨‍💻 Análise e Desenvolvimento de Sistemas - Estácio de Sá
 
 <div>
-  <a href="https://github.com/FelipeGPellegrini">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=FelipeGPellegrini&show_icons=true&theme=radical">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeGPellegrini&layout=compact&theme=radical&hide=html,objective-c,java,ruby,objective-c-++">
+  ## 📊 Estatísticas
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FelipeGPellegrini&theme=radical)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FelipeGPellegrini&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FelipeGPellegrini&theme=radical)
+
 </div>
 
 <h1>💻Tecnologias</h1>
