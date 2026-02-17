@@ -1,7 +1,7 @@
 ## Olá 👋! Me chamo Felipe Pellegrini.
 
-- 📘 Desenvolvedor FullStack
-- 👨‍💻 Cursando Análise e Desenvolvimento de Sistemas - Estácio de Sá
+- 📘 Desenvolvedor Front-end 
+- 👨‍💻 Análise e Desenvolvimento de Sistemas - Estácio de Sá
 
 <div>
   <a href="https://github.com/FelipeGPellegrini">
