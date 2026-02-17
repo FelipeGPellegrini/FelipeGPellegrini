@@ -4,11 +4,12 @@
 - 👨‍💻 Análise e Desenvolvimento de Sistemas - Estácio de Sá
 
 <div>
- ## 🔥 Contribuições
+## 📊 Estatísticas
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=FelipeGPellegrini&theme=radical&hide_border=true)
-![](https://komarev.com/ghpvc/?username=FelipeGPellegrini&color=ff69b4)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FelipeGPellegrini&theme=radical)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FelipeGPellegrini&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FelipeGPellegrini&theme=radical)
 
 </div>
 
