@@ -7,6 +7,8 @@
  ## 🔥 Contribuições
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=FelipeGPellegrini&theme=radical&hide_border=true)
+![](https://komarev.com/ghpvc/?username=FelipeGPellegrini&color=ff69b4)
+
 
 </div>
 
