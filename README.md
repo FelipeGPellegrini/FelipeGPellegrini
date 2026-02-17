@@ -4,7 +4,7 @@
 - 👨‍💻 Análise e Desenvolvimento de Sistemas - Estácio de Sá
 
 <div>
-## 📊 Estatísticas
+📊 Estatísticas
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FelipeGPellegrini&theme=radical)
 
